@@ -1,16 +1,58 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Coding Magic" />
+</p>
 
-<!--
-**thetruth2003/thetruth2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm <span style="color:#FFB6C1;">Alperen Baltacı</span> 👋</h1>
+<h3 align="center">Game Developer | Level & Systems Designer from Turkey, based in Warsaw</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+💻 Full-stack developer with strong foundations in backend/frontend development  
+🕹️ Game developer passionate about immersive gameplay, systems design, and narrative mechanics  
+🎮 Lifelong player of *The Long Dark* — I’ve followed its evolution since Alpha, and it deeply shaped my game design mindset  
+🚀 Currently building games and systems using Unity & Unreal Engine as part of FutureGames and indie projects  
+
+---
+
+### 🐍 Contribution Snake  
+![Contribution Snake](dist/github-contribution-grid-snake.svg)
+
+*To enable, add this workflow at `.github/workflows/generate-snake.yml`*
+
+---
+
+### ⚙️ Tech Stack  
+**Languages:** C#, C++, JavaScript, Python, TypeScript  
+**Frameworks & Engines:** Unity, Unreal Engine 5, React, .NET Core, Flutter  
+**Databases & Tools:** Firebase, SQL, Git, Trello, Figma, NodeCanvas, Perforce  
+
+---
+
+### 🔗 Connect With Me  
+🌐 **Portfolio:** [sparkling-peony-559a46.netlify.app](https://sparkling-peony-559a46.netlify.app)  
+🎮 **Itch.io:** [futuregames.itch.io](https://futuregames.itch.io)  
+💼 **LinkedIn:** [linkedin.com/in/alperen-baltacı-9656aa174](https://www.linkedin.com/in/alperen-baltac%C4%B1-9656aa174/)  
+📧 **Email:** alperenbaltaci94@gmail.com  
+💻 **GitHub:** [github.com/thetruth2003](https://github.com/thetruth2003)
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thetruth2003&theme=radical&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thetruth2003&theme=radical" alt="Profile summary" />
+</p>
+
+---
+
+### ✨ Final Words  
+*"Games are not just entertainment — they’re emotional systems. I build them to challenge, to immerse, and to inspire."*
+
+---
+
+### 👀 Profile Visits  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=thetruth2003&color=green" alt="Profile views" />
+</p>
