@@ -10,7 +10,7 @@
 ### 🧠 About Me  
 💻 Full-stack developer with strong foundations in backend/frontend development  
 🕹️ Game developer passionate about immersive gameplay, systems design, and narrative mechanics  
-🎮 Lifelong player of *The Long Dark* — I’ve followed its evolution since Alpha, and it deeply shaped my game design mindset  
+🎮 Titles with strong atmosphere and survival mechanics have always fascinated me — one in particular has quietly influenced how I approach pacing, solitude, and systemic storytelling in game design (e.g. The Long Dark).
 🚀 Currently building games and systems using Unity & Unreal Engine as part of FutureGames and indie projects  
 
 ---
