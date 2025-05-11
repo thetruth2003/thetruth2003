@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Coding Magic" />
-  ![all games](https://github.com/user-attachments/assets/037adbf3-0303-4dfc-8a00-d32566fc430a)
-
 </p>
+![all games](https://github.com/user-attachments/assets/3ebac3e6-5210-4d40-b5e5-3b02a5a0c2cd)
 
 <h1 align="center">I'm <span style="color:#FFB6C1;">Alperen Baltacı</span> 👋</h1>
 <h3 align="center">Game Developer | Level & Systems Designer from Turkey, based in Warsaw</h3>
