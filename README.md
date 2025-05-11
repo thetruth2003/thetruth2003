@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://yourdomain.com/path/to/all%20games.png" width="480" alt="All Games Cover" />
+  <img src="https://raw.githubusercontent.com/thetruth2003/portfolio/main/images/all%20games.png" width="480" alt="All Games Cover" />
 </p>
+
 
 <h1 align="center">I'm <span style="color:#FFB6C1;">Alperen Baltacı</span> 👋</h1>
 <h3 align="center">Game Developer | Level & Systems Designer from Turkey, based in Warsaw</h3>
