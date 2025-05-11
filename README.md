@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Coding Magic" />
+  <img src="https://yourdomain.com/path/to/all%20games.png" width="480" alt="All Games Cover" />
 </p>
-![all games](https://github.com/user-attachments/assets/3ebac3e6-5210-4d40-b5e5-3b02a5a0c2cd)
 
 <h1 align="center">I'm <span style="color:#FFB6C1;">Alperen Baltacı</span> 👋</h1>
 <h3 align="center">Game Developer | Level & Systems Designer from Turkey, based in Warsaw</h3>
@@ -11,7 +10,7 @@
 ### 🧠 About Me  
 💻 Full-stack developer with strong foundations in backend/frontend development  
 🕹️ Game developer passionate about immersive gameplay, systems design, and narrative mechanics  
-🎮 Titles with strong atmosphere and survival mechanics have always fascinated me — one in particular has quietly influenced how I approach pacing, solitude, and systemic storytelling in game design (e.g. The Long Dark).
+🎮 Titles with strong atmosphere and survival mechanics have always fascinated me — one in particular has quietly influenced how I approach pacing, solitude, and systemic storytelling in game design (e.g. The Long Dark).  
 🚀 Currently building games and systems using Unity & Unreal Engine as part of FutureGames and indie projects  
 
 ---
