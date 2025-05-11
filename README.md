@@ -16,13 +16,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-![Contribution Snake](dist/github-contribution-grid-snake.svg)
-
-*To enable, add this workflow at `.github/workflows/generate-snake.yml`*
-
----
-
 ### ⚙️ Tech Stack  
 **Languages:** C#, C++, JavaScript, Python, TypeScript  
 **Frameworks & Engines:** Unity, Unreal Engine 5, React, .NET Core, Flutter  
