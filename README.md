@@ -24,7 +24,7 @@
 ---
 
 ### 🔗 Connect With Me  
-🌐 **Portfolio:** [sparkling-peony-559a46.netlify.app](https://sparkling-peony-559a46.netlify.app)  
+🌐 **Portfolio:** [https://alperenbaltaciportfolio.netlify.app/](https://alperenbaltaciportfolio.netlify.app/)
 🎮 **Itch.io:** [futuregames.itch.io](https://futuregames.itch.io)  
 💼 **LinkedIn:** [linkedin.com/in/alperen-baltacı-9656aa174](https://www.linkedin.com/in/alperen-baltac%C4%B1-9656aa174/)  
 📧 **Email:** alperenbaltaci94@gmail.com  
